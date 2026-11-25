@@ -1,0 +1,6 @@
+{
+  "name": "Lumen Chat",
+  "description": "An intelligent, context-aware AI chatbot powered by the Google Gemini API with persistent local chat history and full conversation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
